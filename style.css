@@ -1,0 +1,21 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .jumbotron {
+    background-image: url('hero.jpg');
+    background-size: cover;
+    color: #fff;
+    padding: 100px 0;
+  }
+  
+  .card {
+    margin-bottom: 30px;
+  }
+  
+  footer {
+    margin-top: 50px;
+  }
+  
